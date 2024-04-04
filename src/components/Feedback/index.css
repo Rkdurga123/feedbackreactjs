@@ -1,0 +1,25 @@
+/* Write your CSS code here. */
+.bg-container {
+  background-color: pink;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px;
+}
+.description {
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.btn {
+  height: 70px;
+  width: 50px;
+  border-radius: 20px;
+}
